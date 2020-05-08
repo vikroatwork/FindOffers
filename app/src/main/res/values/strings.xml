@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FindOffers</string>
+    <string name="search">Search</string>
+    <string-array name="mock_locations">
+        <item>Electronic City Phase 1</item>
+        <item>Kharghar</item>
+        <item>Andheri East</item>
+        <item>Malad West</item>
+        <item>M G Road,Bengaluru</item>
+    </string-array>
+    <string name="title_activity_list_screen">ListScreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="facebook_app_id">1875352079220974</string>
+    <string name="fb_login_protocol_scheme">fb1875352079220974</string>
+    <string name="title_activity_choices_with__app_bar">Choices_with_AppBar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tabs_main_content">TabsMainContent</string>
+
+</resources>
