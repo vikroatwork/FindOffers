@@ -42,7 +42,7 @@ public  class DATA {
     {
         String encyptedmessage = "";
 
-        String secret_key="vikram489";
+        String secret_key="<key removed intentionaly>";
         try
         {
             encyptedmessage = AESCrypt.encrypt(secret_key,message);
