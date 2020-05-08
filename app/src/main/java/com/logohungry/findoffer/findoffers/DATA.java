@@ -58,7 +58,7 @@ public  class DATA {
     {
         String encyptedmessage = "";
 
-        String secret_key="vikram489";
+        String secret_key="<key removed>";
         AESCrypt.DEBUG_LOG_ENABLED=true;
         try
         {
